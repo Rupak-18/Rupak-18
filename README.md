@@ -19,12 +19,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with skills in
 - [Twitter](https://x.com/RupakDas21?s=08)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rupak-18&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rupak-18&layout=compact&theme=radical)
-
-## 🔗 Projects
-Here are some of my projects:
-- [Book Store](https://github.com/Rupak-18/Book-Store): A book store project using Django.
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Rupak-18&show_icons=true&theme=radical" alt="Rupak-18's GitHub Stats"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupak-18&layout=compact&theme=radical" alt="Rupak-18's Top Languages"></td>
+  </tr>
+</table>
 
 ## 📫 How to reach me
 You can reach me at [dasrupak649@gmail.com](mailto:dasrupak649@gmail.com).
