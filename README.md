@@ -15,8 +15,26 @@ Welcome to my GitHub profile! I'm a passionate software developer with skills in
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 ## 🌐 Public Profiles
-- [LinkedIn](www.linkedin.com/in/rupak-das-9b0653253)
-- [Twitter](https://x.com/RupakDas21?s=08)
+## Connect with me
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rupak-das-9b0653253">
+        <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://x.com/RupakDas21?s=08">
+        <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://leetcode.com/u/Rupak18/">
+        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 GitHub Stats
 <table>
