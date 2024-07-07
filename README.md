@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with skills in
     </td>
     <td align="center">
       <a href="https://leetcode.com/u/Rupak18/">
-        <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+        <img src="https://img.shields.io/badge/-LeetCode-28A745?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
       </a>
     </td>
   </tr>
