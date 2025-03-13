@@ -9,29 +9,29 @@ Welcome to my GitHub profile! I’m a 3rd-year B.Tech student in Computer Scienc
 > *Building the future with a versatile tech stack.*
 
 ### 🖥️ Programming Languages
-![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg)  
-![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg)  
-![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg)  
-![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg)  
+![C](https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg?size=32)  
+![C++](https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg?size=32)  
+![Java](https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg?size=32)  
+![Python](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg?size=32)  
 
 ### 🌐 Web Development
-![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg)  
-![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)  
-![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)  
-![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg)  
-![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg)  
-![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg)  
-![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg)  
+![HTML5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg?size=32)  
+![CSS3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg?size=32)  
+![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg?size=32)  
+![React](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg?size=32)  
+![Node.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg?size=32)  
+![Express.js](https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg?size=32)  
+![Django](https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg?size=32)  
 
 ### 🗄️ Databases & Backend
-![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg)  
-![Mongoose](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg)  
-![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg)  
-![Appwrite](https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg)  
+![MongoDB](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg?size=32)  
+![Mongoose](https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg?size=32)  
+![Firebase](https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg?size=32)  
+![Appwrite](https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg?size=32)  
 
 ### 🔧 Tools & Version Control
-![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg)  
-![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg)  
+![Git](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg?size=32)  
+![GitHub](https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg?size=32)  
 
 ---
 
