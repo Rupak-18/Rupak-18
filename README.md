@@ -9,29 +9,16 @@ Welcome to my GitHub profile! I’m a 3rd-year B.Tech student in Computer Scienc
 > *Building the future with a versatile tech stack.*
 
 ### 🖥️ Programming Languages
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24px" alt="C">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24px" alt="C++">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="24px" alt="Java">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24px" alt="Python">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="24px" alt="C"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="24px" alt="C++"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="24px" alt="Java"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="24px" alt="Python">
 
 ### 🌐 Web Development
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24px" alt="HTML5">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24px" alt="CSS3">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24px" alt="JavaScript">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24px" alt="React">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24px" alt="Node.js">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="24px" alt="Express.js">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" width="24px" alt="Django">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="24px" alt="HTML5"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="24px" alt="CSS3"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="24px" alt="JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="24px" alt="React"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="24px" alt="Node.js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="24px" alt="Express.js"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="24px" alt="Django">
 
 ### 🗄️ Databases & Backend
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="24px" alt="MongoDB">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="24px" alt="Mongoose">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="24px" alt="Firebase">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="24px" alt="Appwrite">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="24px" alt="MongoDB"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongoose/mongoose-original.svg" width="24px" alt="Mongoose"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="24px" alt="Firebase"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appwrite/appwrite-original.svg" width="24px" alt="Appwrite">
 
 ### 🔧 Tools & Version Control
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24px" alt="Git">  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24px" alt="GitHub">  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="24px" alt="Git"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="24px" alt="GitHub">
 
 ---
 
