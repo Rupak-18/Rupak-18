@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Rupak!
 
-Welcome to my GitHub profile! I’m a 3rd-year B.Tech student in Computer Science, fueled by a passion for solving problems and building impactful tech solutions. Currently, I’m diving deep into Data Structures and Algorithms (DSA) with Java, crafting full-stack applications with the MERN stack, and exploring the worlds of DevOps and Core Java. I thrive on turning ideas into code and am eager to contribute to innovative projects.
+Welcome to my GitHub profile! I’m a 4th-year B.Tech student in Computer Science, fueled by a passion for solving problems and building impactful tech solutions. Currently, I’m diving deep into Data Structures and Algorithms (DSA) with Java, crafting full-stack applications with the MERN stack, and exploring the worlds of DevOps and Core Java. I thrive on turning ideas into code and am eager to contribute to innovative projects.
 
 ---
 
