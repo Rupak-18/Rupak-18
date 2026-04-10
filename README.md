@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I’m a 4th-year B.Tech student in Computer Scienc
 
 - **DSA Mastery**: Sharpening my problem-solving skills with Java on platforms like LeetCode.  
 - **MERN Stack Projects**: Building scalable, user-focused web applications.  
-- **DevOps Curiosity**: Learning CI/CD pipelines, containerization, and cloud tools.  
+- **DevOps Curiosity**: Learning the basics. 
 - **Core Java**: Exploring advanced concepts for robust software development.
 
 ---
